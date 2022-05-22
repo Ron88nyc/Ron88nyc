@@ -3,7 +3,7 @@
 - ✨ I’m currently learning data structures and algorithmns
 - 👩‍💻 I’m looking to collaborate on any projects that I can contribute too!
 - 📫 How to reach me ronaldnyc88@gmail.com
-
+<!--
 <a href="https://ronaldli.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/167920875-a69ab784-d861-4095-b07e-481a36808a73.JPG" width="100%"></a>
 
 <p align="center">
@@ -158,3 +158,4 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
+-->
