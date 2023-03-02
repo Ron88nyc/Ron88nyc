@@ -17,7 +17,7 @@
   </a> -->
 </p>
 
- Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change.
+ Full-Stack Developer, I am motivated by the power of technology as a tool for positive change.
 
 See [my website](https://ronaldli.netlify.app/) for more information!
 
