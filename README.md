@@ -47,8 +47,8 @@ See [my website](https://ronaldli.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Ai Text-Image Generator</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://dallie-2-openai-stable-diffusion.netlify.app/)">
+            <img src="images/gif2.gif" width="100%"  alt="GenAI"/>
         </a>
         <br />
         <p align="center">
