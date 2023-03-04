@@ -60,7 +60,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>MongoDB,Express,React,Node</strong> - AI Text-Image base generator.</p>
+        <p><strong>MongoDB,Express,React,Node</strong> -Interact with countless images to draw from openAI's API. AI Text-Image base generator.</p>
     </td>
   </tr>
   
