@@ -53,7 +53,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/Ron88nyc/AiGeneratorImage.com" target="_blank">
+  <a href="https://github.com/Ron88nyc/AiGeneratorImage.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
