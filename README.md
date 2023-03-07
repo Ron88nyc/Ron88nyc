@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
- I'm currently working on a text base image AI generator. With react for the frontend and node for the backend.
+ Currently working on a text base image AI generator. With react for the frontend and node for the backend.
  Full-Stack Developer, I am motivated by the power of technology as a tool for positive change.
 
 See [my website](https://ronaldli.netlify.app/) for more information!
