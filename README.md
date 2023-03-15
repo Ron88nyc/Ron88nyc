@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/7uaGepz.png" width="100%">
+<!-- <img src="https://i.imgur.com/7uaGepz.png" width="100%"> -->
 <p align="center">
   <a href="https://ronaldli.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
