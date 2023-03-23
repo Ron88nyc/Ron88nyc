@@ -85,7 +85,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">StarTrek Quote Generator</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a target="_blank" href="https://star-trek-app-dem.vercel.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
