@@ -30,7 +30,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
       <h3 align="center">TikTik</h3>
         <br />
         <a target="_blank" href="(https://tiktik-rho-orpin.vercel.app/)">
-            <img src="https://giphy.com/gifs/LcFr8zq9bGaK2fHDEP" width="100%" alt="Social Media App"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhODg0OGIxOTBjODc2M2U2M2E1ZTdlMmMzZTcwYzM2MjE1N2RkZCZjdD1n/LcFr8zq9bGaK2fHDEP/giphy.gif" width="100%" alt="Social Media App"/>
         </a>
         <br />
         <p align="center">
@@ -48,7 +48,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
       <h3 align="center">Ai Text-Image Generator</h3>
         <br />
       <a target="_blank" href="https://dallie-2-openai-stable-diffusion.netlify.app/)">
-            <img src="images/gif2.gif" width="100%"  alt="GenAI"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkzMTRlZGJhMmJkMzUwZmM3NDU1YTY3N2RjZTFjMjU0YTg0N2MwNiZjdD1n/6HDDwCrVCJ3qHx7Ddk/giphy.gif" width="100%"  alt="GenAI"/>
         </a>
         <br />
         <p align="center">
@@ -69,7 +69,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
       <h3 align="center">Website Portfolio</h3>
       <br />
         <a target="_blank" href="https://ronaldli.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ3NGFkNjQ5OWFhYjUwNTczMjFhMjYzYzVmZDhiOTRiNjkxMmJhMSZjdD1n/4B9NhQzWinwOs2P1Jd/giphy.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
