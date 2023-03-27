@@ -29,7 +29,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">TikTik</h3>
         <br />
-        <a target="_blank" href="(https://tiktik-rho-orpin.vercel.app/)">
+        <a target="_blank" href="https://tiktik-rho-orpin.vercel.app">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhODg0OGIxOTBjODc2M2U2M2E1ZTdlMmMzZTcwYzM2MjE1N2RkZCZjdD1n/LcFr8zq9bGaK2fHDEP/giphy.gif" width="100%" alt="Social Media App"/>
         </a>
         <br />
@@ -47,7 +47,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Ai Text-Image Generator</h3>
         <br />
-      <a target="_blank" href="https://dallie-2-openai-stable-diffusion.netlify.app/)">
+      <a target="_blank" href="https://dallie-2-openai-stable-diffusion.netlify.app">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkzMTRlZGJhMmJkMzUwZmM3NDU1YTY3N2RjZTFjMjU0YTg0N2MwNiZjdD1n/6HDDwCrVCJ3qHx7Ddk/giphy.gif" width="100%"  alt="GenAI"/>
         </a>
         <br />
