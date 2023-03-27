@@ -30,7 +30,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
       <h3 align="center">TikTik</h3>
         <br />
         <a target="_blank" href="(https://tiktik-rho-orpin.vercel.app/)">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJjNGI5ZDU2Yjg0NDZkOTMxYWYwZDdhMTg1MmI2Mzk4ZWFmZTY4ZCZjdD1n/QiQRpmKgtA5uOgam3l/giphy.gif" width="100%" alt="Social Media App"/>
+            <img src="https://giphy.com/gifs/LcFr8zq9bGaK2fHDEP" width="100%" alt="Social Media App"/>
         </a>
         <br />
         <p align="center">
