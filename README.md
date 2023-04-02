@@ -83,22 +83,22 @@ See [my website](https://ronaldli.netlify.app/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">StarTrek Quote Generator</h3>
+      <h3 align="center">Wellportone</h3>
         <br />
-        <a target="_blank" href="https://star-trek-app-dem.vercel.app/">
+        <a target="_blank" href="https://wellportone.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Ron88nyc/Star-Trek-App-Dem.git" target="_blank">
+  <a href="https://github.com/Ron88nyc/WellportLand" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://star-trek-app-dem.vercel.app/" target="_blank">
+  <a href="https://wellportone.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different quotes to draw from, starTREK API</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Client website. Revised to make it more dynamic</p>
     </td>
   </tr>
 </table>
@@ -152,7 +152,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
   <a href="https://angel.co/u/ronald-li-3" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-<!--   <a href="https://shawncharles.com/resume" target="_blank">
+<!--   <a href="https:resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
