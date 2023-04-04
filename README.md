@@ -12,7 +12,7 @@
   <a href="https://angel.co/u/ronald-li-3" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-<!--   <a href="https://shawncharles.com/resume" target="_blank">
+<!--   <a href="https://.com/resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
@@ -86,7 +86,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
       <h3 align="center">Wellportone</h3>
         <br />
         <a target="_blank" href="https://wellportone.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhhNTBmYmE2MzdiMDEzNGI3YTdlNmI0NTU2NGRhNmQ3NWZlNjY2NyZjdD1n/h4jZWa6X2JZMtWl9Tt/giphy.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
