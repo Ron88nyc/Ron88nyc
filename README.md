@@ -42,7 +42,7 @@ See [my website](https://ronaldli.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Javascript, Typescript, MongoDB, GoogleOAUTH, Sass, Node.js, & Express.js</strong> - Platform to help build content with videos along with your friends and family! TikTik makes sharing videos easy and seamless!</p>
+        <p><strong>React,Typescript, Next.js, GoogleOAUTH, Sass, Node.js, </strong> - Platform to help build content with videos along with your friends and family! TikTik makes sharing videos easy and seamless!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Ai Text-Image Generator</h3>
