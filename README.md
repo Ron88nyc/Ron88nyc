@@ -9,9 +9,9 @@
   <a href="https://twitter.com/ronnor21" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/ronald-li-3" target="_blank">
+<!--   <a href="https://angel.co/u/ronald-li-3" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
+  </a> -->
 <!--   <a href="https://.com/resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
