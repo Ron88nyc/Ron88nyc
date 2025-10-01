@@ -16,8 +16,13 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
- Currently working on a text base image AI generator. With react for the frontend and node for the backend.
- Full-Stack Developer, I am motivated by the power of technology as a tool for positive change.
+ Hi, I’m Ronald Li  
+
+**Aspiring QA Engineer / SDET** with a background in Computer Science and hands-on projects in:  
+- Manual Testing (Test Cases, Bug Reports in Jira)  
+- API Testing (Postman, automated assertions)  
+- SQL basics for data validation  
+- Test automation (Selenium – in progress)  
 
 See [my website](https://ronaldli.netlify.app/) for more information!
 
