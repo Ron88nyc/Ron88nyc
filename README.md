@@ -27,12 +27,12 @@
 - 
 ## 📂 Portfolio Projects
 
-### 🐞 [Manual QA Bug Reporting Project](https://github.com/YOUR_USERNAME/qa-bug-reporting-project)  
+### 🐞 [Manual QA Bug Reporting Project](https://github.com/ron88nyc/qa-bug-reporting-project)  
 - Wrote structured test cases for Wikipedia Search  
 - Logged defects in Jira with severity/priority levels  
 - Collected bug report screenshots & board overview  
 
-### 📡 [API Testing with Postman](https://github.com/YOUR_USERNAME/qa-api-testing-wikipedia)  
+### 📡 [API Testing with Postman](https://github.com/ron88nyc/qa-api-testing-wikipedia)  
 - Built Postman collection with environment variables  
 - Automated assertions for status codes & JSON response  
 - Tested valid, negative, and numeric search scenarios  
