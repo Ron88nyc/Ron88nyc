@@ -22,7 +22,29 @@
 - Manual Testing (Test Cases, Bug Reports in Jira)  
 - API Testing (Postman, automated assertions)  
 - SQL basics for data validation  
-- Test automation (Selenium – in progress)  
+- Test automation (Selenium – in progress)
+
+- 
+## 📂 Portfolio Projects
+
+### 🐞 [Manual QA Bug Reporting Project](https://github.com/YOUR_USERNAME/qa-bug-reporting-project)  
+- Wrote structured test cases for Wikipedia Search  
+- Logged defects in Jira with severity/priority levels  
+- Collected bug report screenshots & board overview  
+
+### 📡 [API Testing with Postman](https://github.com/YOUR_USERNAME/qa-api-testing-wikipedia)  
+- Built Postman collection with environment variables  
+- Automated assertions for status codes & JSON response  
+- Tested valid, negative, and numeric search scenarios  
+- Exported artifacts (collection, env, screenshots)  
+
+---
+
+## 🛠️ Tech Stack
+- **Testing Tools:** Jira, Postman, Selenium (learning)  
+- **Languages:** Python, Java (for automation basics)  
+- **Other Skills:** Agile/Scrum basics, SQL queries for validation  
+
 
 See [my website](https://ronaldli.netlify.app/) for more information!
 
