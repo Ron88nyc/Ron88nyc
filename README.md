@@ -24,10 +24,10 @@
 - SQL basics for data validation  
 - Test automation (Selenium – in progress)
 
-- 
+  
 ## 📂 Portfolio Projects
 
-### 🐞 [Manual QA Bug Reporting Project](https://github.com/ron88nyc/qa-bug-reporting-project)  
+### 🐞 [Manual QA Bug Reporting Project](https://github.com/ron88nyc/qa_bug_reporting_project)  
 - Wrote structured test cases for Wikipedia Search  
 - Logged defects in Jira with severity/priority levels  
 - Collected bug report screenshots & board overview  
