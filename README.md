@@ -18,7 +18,7 @@
 </p>
  Hi, I’m Ronald Li  
 
-**Aspiring QA Engineer / SDET** with a background in Computer Science and hands-on projects in:  
+**Aspiring QA Engineer / SDET / FullStack** with a background in Computer Science and hands-on projects in:  
 - Manual Testing (Test Cases, Bug Reports in Jira)  
 - API Testing (Postman, automated assertions)  
 - SQL basics for data validation  
