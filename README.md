@@ -18,14 +18,14 @@
 </p>
  Hi, I’m Ronald Li  
 
-**Aspiring QA Engineer / SDET / FullStack** with a background in Computer Science and hands-on projects in:  
+** FullStack engineer and Aspiring QA Engineer / SDET /** with a background in Computer Science and currently working on :  
 - Manual Testing (Test Cases, Bug Reports in Jira)  
 - API Testing (Postman, automated assertions)  
 - SQL basics for data validation  
 - Test automation (Selenium – in progress)
 
   
-## 📂 Portfolio Projects
+## 📂 Current Projects
 
 ### 🐞 [Manual QA Bug Reporting Project](https://github.com/ron88nyc/qa_bug_reporting_project)  
 - Wrote structured test cases for Wikipedia Search  
