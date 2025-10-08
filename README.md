@@ -40,10 +40,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-- **Testing Tools:** Jira, Postman, Selenium (learning)  
-- **Languages:** Python, Java (for automation basics)  
-- **Other Skills:** Agile/Scrum basics, SQL queries for validation  
+ 
 
 
 See [my website](https://ronaldli.netlify.app/) for more information!
