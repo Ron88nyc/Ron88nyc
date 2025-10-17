@@ -27,8 +27,11 @@
 
   
 ## 📂 Current Projects
-Automating email work flow with Python
-
+[Python Automation Emails]([https://github.com/ron88nyc/qa_bug_reporting_project](https://github.com/Ron88nyc/Python-Automation-Emails)
+- Wrote script with python in vscode for emails
+- Used Basic SMTP however switched to Graph API for more security and to by pass SSO.
+- Sent out weekly for tenants within 60 or 30 day lease periods left
+  
 ### 🐞 [Manual QA Bug Reporting Project](https://github.com/ron88nyc/qa_bug_reporting_project)  
 - Wrote structured test cases for Wikipedia Search  
 - Logged defects in Jira with severity/priority levels  
