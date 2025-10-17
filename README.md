@@ -26,6 +26,7 @@
 
   
 ## 📂 Current Projects
+Automating email work flow with Python
 
 ### 🐞 [Manual QA Bug Reporting Project](https://github.com/ron88nyc/qa_bug_reporting_project)  
 - Wrote structured test cases for Wikipedia Search  
