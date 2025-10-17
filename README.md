@@ -19,6 +19,7 @@
  Hi, I’m Ronald Li  
 
 ** FullStack engineer and Aspiring QA Engineer / SDET /** with a background in Computer Science and currently working on :  
+- Email Automation (Python scripted to send renewal emails weekly)
 - Manual Testing (Test Cases, Bug Reports in Jira)  
 - API Testing (Postman, automated assertions)  
 - SQL basics for data validation  
