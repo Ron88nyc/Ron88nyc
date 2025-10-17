@@ -27,7 +27,7 @@
 
   
 ## 📂 Current Projects
-### [**Python Automation Emails**](https://github.com/Ron88nyc/Python-Automation-Emails)
+###   [**Python Automation Emails**](https://github.com/Ron88nyc/Python-Automation-Emails)
 - Wrote script with python in vscode for emails
 - Used Basic SMTP however switched to Graph API for more security and to by pass SSO.
 - Sent out weekly for tenants within 60 or 30 day lease periods left
